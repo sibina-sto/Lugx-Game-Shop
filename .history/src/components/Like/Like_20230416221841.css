@@ -1,0 +1,23 @@
+
+
+  input {
+    height: 100%;
+    width: 100%;
+  }
+
+  input {
+    display: none;
+  }
+
+  input:checked ~ label,
+  label:hover,
+  label:hover ~ label {
+    color: #34AC9E;
+  }
+
+  input:checked ~ label,
+  label:hover,
+  label:hover ~ label {
+    color: #34AC9E;
+  }
+
