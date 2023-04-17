@@ -3,6 +3,7 @@ import './Like.css';
 export const Like = () => {
     return (
         <>
+
             <div className="star-source">
                 <svg>
                     <linearGradient

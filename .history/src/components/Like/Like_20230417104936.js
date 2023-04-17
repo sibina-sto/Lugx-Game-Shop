@@ -3,6 +3,11 @@ import './Like.css';
 export const Like = () => {
     return (
         <>
+            <h1>Star Rating System</h1>
+            <h2>
+                Using CSS Radio Inputs with SVG <code>&lt;symbol&gt;</code> and{" "}
+                <code>&lt;use&gt;</code>
+            </h2>
             <div className="star-source">
                 <svg>
                     <linearGradient
